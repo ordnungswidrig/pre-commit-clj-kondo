@@ -1,0 +1,6 @@
+-   id: lint
+    name: Lint with clj-kondo
+    description: see clj-kondo
+    entry: run-clj-kondo --lint
+    language: script
+    types: [text]
